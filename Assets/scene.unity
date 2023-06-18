@@ -3675,6 +3675,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 267569952338655317, guid: 127a6e45a12bf43fe81fc526f96e1671, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 4e410d7e103214a0bb3b9cd9b7b5b479, type: 3}
     - target: {fileID: 2326641011939703192, guid: 127a6e45a12bf43fe81fc526f96e1671, type: 3}
       propertyPath: m_Name
       value: ConeConfetti
