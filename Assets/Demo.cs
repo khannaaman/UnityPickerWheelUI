@@ -99,8 +99,8 @@ public class Demo : MonoBehaviour {
             }
         }
 
-        toggleSelectionError.gameObject.SetActive(count < 2);
-        uiSpinButton.gameObject.SetActive(count > 1);
+        toggleSelectionError.gameObject.SetActive(count < 1);
+        uiSpinButton.gameObject.SetActive(count > 0);
     }
 
     private List<string> GetToggleLabels()

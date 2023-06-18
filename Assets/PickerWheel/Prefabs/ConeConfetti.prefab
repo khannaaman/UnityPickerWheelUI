@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2326641011939703197}
   - component: {fileID: 2326641011939703194}
   - component: {fileID: 267569952338655317}
-  - component: {fileID: 2801902173843815468}
+  - component: {fileID: 8207700257830895455}
   m_Layer: 5
   m_Name: ConeConfetti
   m_TagString: Untagged
@@ -4907,7 +4907,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &2801902173843815468
+--- !u!114 &8207700257830895455
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4920,6 +4920,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   audioClips:
+  - {fileID: 8300000, guid: d8c60527ce4854743869fe8898993bbe, type: 3}
+  - {fileID: 8300000, guid: 4e410d7e103214a0bb3b9cd9b7b5b479, type: 3}
   - {fileID: 8300000, guid: d546a54070e3042f0a04b159ea0a3950, type: 3}
-  - {fileID: 8300000, guid: ea7575ed01c9b410fb7fa4cac9e8e5ad, type: 3}
+  - {fileID: 8300000, guid: 781bf46de39c448e88a375da13b2992e, type: 3}
   - {fileID: 8300000, guid: f17d246560fa84122899dedab00ac4d1, type: 3}
+  - {fileID: 8300000, guid: ea7575ed01c9b410fb7fa4cac9e8e5ad, type: 3}
