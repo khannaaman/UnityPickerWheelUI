@@ -1629,6 +1629,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PickerWheel
       objectReference: {fileID: 0}
+    - target: {fileID: 1323661475590176, guid: 160be82451391f6448834ec65286e007, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 82771466526599974, guid: 160be82451391f6448834ec65286e007, type: 3}
       propertyPath: m_Volume
       value: 1
